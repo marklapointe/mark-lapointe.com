@@ -1,0 +1,30 @@
+version: "2.1"
+services:
+  letsencrypt:
+    image: repository.cloudbsd.cat/general/mark_lapointe_com:latest
+    container_name: resume
+    cap_add:
+      - NET_ADMIN
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/Toronto
+      - URL=mark-lapointe.com
+      - SUBDOMAINS=www,
+      - VALIDATION=http
+      - DNSPLUGIN=cloudflare #optional
+      - PROPAGATION= #optional
+      - DUCKDNSTOKEN= #optional
+      - EMAIL=mark@revynet.org
+      - DHLEVEL=2048 #optional
+      - ONLY_SUBDOMAINS=false #optional
+      - EXTRA_DOMAINS= #optional
+      - STAGING=false 
+    volumes:
+      - ./config:/config
+    ports:
+      - 99.122.154.132:443:443
+      - 99.122.154.132:80:80
+      - 2600:1700:14e0:16a0::39:443:443
+      - 2600:1700:14e0:16a0::39:80:80
+    restart: unless-stopped
