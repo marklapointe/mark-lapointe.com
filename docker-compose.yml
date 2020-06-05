@@ -12,13 +12,9 @@ services:
       - URL=mark-lapointe.com
       - SUBDOMAINS=www,
       - VALIDATION=http
-      - DNSPLUGIN=cloudflare #optional
-      - PROPAGATION= #optional
-      - DUCKDNSTOKEN= #optional
       - EMAIL=mark@revynet.org
-      - DHLEVEL=2048 #optional
-      - ONLY_SUBDOMAINS=false #optional
-      - EXTRA_DOMAINS= #optional
+      - DHLEVEL=2048 
+      - ONLY_SUBDOMAINS=false
       - STAGING=false 
     volumes:
       - ./config:/config
