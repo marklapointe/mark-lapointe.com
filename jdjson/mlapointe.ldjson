@@ -1,6 +1,6 @@
 <script type="application/ld+json">
 {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "@type": "Person",
     "name": "Mark LaPointe",
     "familyName": "LaPointe",
@@ -11,7 +11,7 @@
         "alumniOf": {
             "@type": "CollegeOrUniversity",
             "name": "University of Windsor",
-            "sameAs": "http://en.wikipedia.org/wiki/University_of_Windsor"
+            "sameAs": "https://en.wikipedia.org/wiki/University_of_Windsor"
         },
         "startDate": "1999",
         "endDate": 2004

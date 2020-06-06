@@ -1,4 +1,4 @@
-baseURL = "http://mark-lapointe.com/"
+baseURL = "https://mark-lapointe.com/"
 languageCode = "en-us"
 title = "Mark LaPointe"
 theme = "resume"
