@@ -1,22 +1,69 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "skills":[ 
+        "IP 4 & 6 Networking",
+        "DNS",
+        "Firewalls",
+        "Load Balancing",
+        "Microservices",
+        "RESTful APIs",
+        "SaaS/PaaS/IaaS",
+        "Cisco",
+        "Palo Alto",
+        "Pulse Secure VPN",
+        "OpenVPN"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "skills":[ "Java",
+        "Python",
+        "Perl",
+        "PHP",
+        "Go",
+        "Typescript",
+        "NodeJS",
+        "C",
+        "C++",
+        "Visual Basic 6",
+        ".Net",
+        "BASIC",
+        "Turing",
+        "Git",
+        "GitLab",
+        "Subversion",
+        "Linux",
+        "FreeBSD",
+        "OpenBSD",
+        "NetBSD",
+        "Bash",
+        "batch",
+        "php",
+        "jquery",
+        "JavaScript",
+        "ANT",
+        "Maven",
+        "Jenkins",
+        "Angular"
+      ]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","Apache HTTPD","Snort"]
   },
   {
       "grouping":"Data Management",
       "skills":[
         {"name":"Microsoft SQL Server","icon":"msql_server"},
         {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
+        {"name":"MongoDB","icon":"mongo"},
+        {"name":"MySQL","icon":"mysql"},
+        {"name":"MariaDB","icon":"mysql"},
+        {"name":"Neo4j","icon":"database"},
+        {"name":"MemSQL","icon":"database"},
+        {"name":"ElasticSearch","icon":"database"},
+        {"name":"Splunk","icon":"database"},
+        {"name":"RedisDB","icon":"redis"},
+        {"name":"Apache Spark","icon":"database"}
       ]
   },
   {
@@ -24,9 +71,13 @@
       "skills":[
           {"name":"BOSH","link":"https://bosh.io"},
           {"name":"Docker","link":"https://docker.com"},
+          {"name":"Kubernetes","link":"https://kubernetes.io/"},
           {"name":"AWS","link":"https://aws.amazon.com"},
           {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+          {"name":"Linux","link":"https://bosh.io"},
+          {"name":"FreeBSD Bhyve","link":"https://freebsd.org"},
+          {"name":"FreeNAS","link":"https://freenas.org"},
+          {"name":"VMWare vCenter/vSphere/ESXi","link":"https://vmware.com"}
       ]
   }
 ]

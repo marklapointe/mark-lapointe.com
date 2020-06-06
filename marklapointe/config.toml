@@ -21,7 +21,7 @@ showOpenSource = false
 showProjects = false
 showPublications = false
 showQr = true
-showSkills = false
+showSkills = true
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/helix/"

@@ -10,6 +10,9 @@ outputs:
 - json
 ---
 
+## Innovative, Inspirational, and Creative Leader
+
+
 ### HIGH-PERFORMANCE APPLICATIONS | SOFTWARE & SAAS SOLUTIONS | FULL LIFE CYCLE CONFIGURATION
 
 Engineering leader valued for driving quality and consistency throughout all phases of software development projects.
