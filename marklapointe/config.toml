@@ -14,14 +14,14 @@ favicon = "/favicon.ico"
 firstName = "Mark"
 lastName = "LaPointe"
 phone = "1-954-294-7924"
-profileImage = "img/TechChat.png"
+profileImage = "img/portrait.png"
 showEducation = true
 showExperience = true
-showOpenSource = true
-showProjects = true
-showPublications = true
+showOpenSource = false
+showProjects = false
+showPublications = false
 showQr = true
-showSkills = true
+showSkills = false
 
 [params.google]
 
