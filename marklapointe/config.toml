@@ -1,0 +1,40 @@
+baseURL = "http://mark-lapointe.com/"
+languageCode = "en-us"
+title = "Mark LaPointe"
+theme = "resume"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Fort Lauderdale, FL"
+email = "mark@revynet.org"
+favicon = "/favicon.ico"
+firstName = "Mark"
+lastName = "LaPointe"
+phone = "1-954-294-7924"
+profileImage = "img/TechChat.png"
+showEducation = true
+showExperience = true
+showOpenSource = true
+showProjects = true
+showPublications = true
+showQr = true
+showSkills = true
+
+[params.google]
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/helix/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://keybase.io/revhelix"
+name = "Keybase"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

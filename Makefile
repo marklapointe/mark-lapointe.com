@@ -1,5 +1,7 @@
 default: all
 
+gohugo:
+	@hugo new site marklapointe
 
 all: build publish
 
