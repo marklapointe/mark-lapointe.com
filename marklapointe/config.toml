@@ -13,7 +13,7 @@ email = "mark@revynet.org"
 favicon = "/favicon.ico"
 firstName = "Mark"
 lastName = "LaPointe"
-phone = "1-954-294-7924"
+phone = "+1(954)294-7924"
 profileImage = "img/portrait.png"
 showEducation = true
 showExperience = true
@@ -22,8 +22,6 @@ showProjects = false
 showPublications = false
 showQr = true
 showSkills = false
-
-[params.google]
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/helix/"

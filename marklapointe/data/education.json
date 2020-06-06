@@ -1,0 +1,37 @@
+[
+    {
+        "school":"[University of Windsor](https://www.uwindsor.ca)",
+        "degree":"Bachelor of Computer Science",
+        "range":"1999 - 2004"
+    },
+    {
+        "school":"[Hurricane Electric](https://ipv6.he.net/certification/)",
+        "degree": "IPv6 Certification - Sage",
+        "range":"2019"
+    },
+    {
+        "school":"[Erion](https://www.ipv6consultancy.com/)",
+        "degree":"Implementing and Securing IPv6 for Developers",
+        "range":"2013"
+    },
+    {
+        "school":"[BlackHat Training](https://blackhat.com/)",
+        "degree":"The Shellcode Lab",
+        "range":"2013"
+    },
+    {
+        "school":"[BlackHat Training](https://blackhat.com/)",
+        "degree":"Mitigating DDoS Attacks by Cisco Systems",
+        "range":"2010"
+    },
+    {
+        "school":"[BlackHat Training](https://blackhat.com/)",
+        "degree":"Tactical VoIP",
+        "range":"2008"
+    },
+    {
+        "school":"[Activplant Training](https://www.aptean.com/solutions/mes/aptean-activplant-mes/)",
+        "degree":"Activplant Foundation SDK",
+        "range":"2005"
+    }
+]
