@@ -128,7 +128,6 @@
           {"name":"Nexus 3","ignore-link":"https://www.sonatype.com/nexus-repository-oss"},
           {"name":"AWS","ignore-link":"https://aws.amazon.com"},
           {"name":"Google Cloud","ignore-link":"https://cloud.google.com"},
-          {"name":"Linux","ignore-link":"https://bosh.io"},
           {"name":"bhyve","ignore-link":"https://bhyve.org/"},
           {"name":"FreeBSD Jails","ignore-link":"https://www.freebsd.org/doc/handbook/jails.html"},
           {"name":"FreeNAS","ignore-link":"https://freenas.org"},
