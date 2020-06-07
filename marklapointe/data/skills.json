@@ -2,53 +2,100 @@
   {
       "grouping":"Architecture",
       "skills":[ 
-        "IP 4 & 6 Networking",
+        "IPv4",
+        "IPv6 (Look for this sites AAAA)",
         "DNS",
         "Firewalls",
+        "VPNs",
+        "Routers",
+        "BGP",
+        "OSPF",
         "Load Balancing",
         "Microservices",
         "RESTful APIs",
-        "SaaS/PaaS/IaaS",
+        "SaaS",
+        "PaaS",
+        "IaaS",
         "Cisco",
         "Palo Alto",
+        "Mikrotik",
+        "pfSense",
         "Pulse Secure VPN",
-        "OpenVPN"]
+        "OpenVPN"
+      ]
   },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java",
+      "grouping":"Programming Languages",
+      "skills":[ 
+        "Java",
+        "JEE",
+        "J2EE",
         "Python",
         "Perl",
         "PHP",
         "Go",
         "Typescript",
         "NodeJS",
+        "JavaScript",
+        "ECMAScript",
         "C",
         "C++",
         "Visual Basic 6",
-        ".Net",
+        "Visual Studio .Net",
         "BASIC",
         "Turing",
-        "Git",
-        "GitLab",
-        "Subversion",
-        "Linux",
-        "FreeBSD",
-        "OpenBSD",
-        "NetBSD",
+        "Pascal",
+        "Haskell",
+        "Miranda",
         "Bash",
-        "batch",
-        "php",
-        "jquery",
-        "JavaScript",
-        "ANT",
-        "Maven",
-        "Jenkins",
-        "Angular"
+        "CSH",
+        "KORN",
+        "batch"
       ]
+  },{
+    "grouping":"Tooling",
+    "skills":[ 
+      "Git",
+      "GitLab",
+      "Subversion",
+      "ANT",
+      "Maven",
+      "Make",
+      "NPM",
+      "Jenkins",
+      "Angular",
+      "Eclipse",
+      "GCC",
+      "LLVM",
+      "Visual Paradigim",
+      "Bitbucket",
+      "NGINX",
+      "Apache HTTPD",
+      "Apache Tomcat",
+      "Snort",
+      "Axis 2",
+      "Apache Commons"
+    ]
+},{
+    "grouping":"Operating Systems",
+    "skills":[ 
+      "Linux",
+      "FreeBSD",
+      "OpenBSD",
+      "NetBSD",
+      "MacOS",
+      "Windows",
+      "Solaris",
+      "IRIX",
+      "AIX"
+    ]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","Apache HTTPD","Snort"]
+      "skills":[ 
+        "Atlassian",
+        "JIRA",
+        "Monday"
+      ]
   },
   {
       "grouping":"Data Management",
@@ -64,22 +111,51 @@
         {"name":"Splunk","icon":"database"},
         {"name":"RedisDB","icon":"redis"},
         {"name":"Apache Spark","icon":"database"}, 
-        {"name":"Cassandra"}
+        {"name":"Cassandra","icon":"database"}
 
       ]
-  },
-  {
+  },{
     "grouping":"Containers & Cloud",
       "skills":[
           {"name":"BOSH","link":"https://bosh.io"},
           {"name":"Docker","link":"https://docker.com"},
+          {"name":"Docker Compose","link":"https://github.com/docker/compose"},
           {"name":"Kubernetes","link":"https://kubernetes.io/"},
+          {"name":"Nexus 3","link":"https://www.sonatype.com/nexus-repository-oss"},
           {"name":"AWS","link":"https://aws.amazon.com"},
           {"name":"Google Cloud","link":"https://cloud.google.com"},
           {"name":"Linux","link":"https://bosh.io"},
-          {"name":"FreeBSD Bhyve","link":"https://freebsd.org"},
+          {"name":"bhyve","link":"https://bhyve.org/"},
+          {"name":"FreeBSD Jails","link":"https://www.freebsd.org/doc/handbook/jails.html"},
           {"name":"FreeNAS","link":"https://freenas.org"},
-          {"name":"VMWare vCenter/vSphere/ESXi","link":"https://vmware.com"}
+          {"name":"VMWare","link":"https://vmware.com"},
+          {"name":"VMWare vSphere","link":"https://vmware.com"},
+          {"name":"VMWare ESXi","link":"https://vmware.com"},
+          {"name":"VMWare vCenter","link":"https://vmware.com"},
+          {"name":"Xen","link":"https://xenproject.org"},
+          {"name":"XCP-NG","link":"https://xcp-ng.org/"},
+          {"name":"Terraform", "link":"https://www.terraform.io/"},
+          {"name":"Chef", "link":"https://www.chef.io/"}
       ]
+  },{
+    "grouping":"Frameworks and Libraries",
+    "skills":[ 
+      "jQuery",
+      "jUnit",
+      "Mocha",
+      "Spring",
+      "Angular",
+      "ActiveX",
+      "Mozilla Browser Plugins"
+    ]
+  },{
+    "grouping":"Markup Languages",
+    "skills":[ 
+      "Markdown",
+      "RAML",
+      "XML",
+      "JSON",
+      "HTML"
+    ]
   }
 ]

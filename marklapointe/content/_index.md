@@ -17,8 +17,9 @@ outputs:
 
 Engineering leader valued for driving quality and consistency throughout all phases of software development projects.
 Partner with developers, analysts, QA, and support engineers throughout product life cycle to create cutting-edge
-engineering solutions, optimizing code and producing user-friendly, scalable, and bug-free software. Extensive expertise in
-large system architecture development and administration as well as network design, configuration, and automation. Focus
+engineering solutions, optimizing code and producing user-friendly, scalable, and bug-free software. 
+
+Extensive expertise in large system architecture development and administration as well as network design, configuration, and automation. Focus
 on achieving bottom-line results while formulating and implementing advanced, technologically intricate solutions to meet
 a wide array of industry problems.
 
