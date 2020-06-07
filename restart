@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+docker pull repository.cloudbsd.cat/general/mark_lapointe_com:latest && docker-compose down && docker-compose up -d
+
