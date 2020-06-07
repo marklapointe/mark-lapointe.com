@@ -138,6 +138,7 @@
           {"name":"VMWare vCenter","link":"https://vmware.com"},
           {"name":"Xen","link":"https://xenproject.org"},
           {"name":"XCP-NG","link":"https://xcp-ng.org/"},
+          {"name":"Proxmox","link":"https://www.proxmox.com/"},
           {"name":"Terraform", "link":"https://www.terraform.io/"},
           {"name":"Chef", "link":"https://www.chef.io/"}
       ]
@@ -150,7 +151,8 @@
       "Spring",
       "Angular",
       "ActiveX",
-      "Mozilla Browser Plugins"
+      "Mozilla Browser Plugin Framework",
+      "ActivPlant Foundations SDK"
     ]
   },{
     "grouping":"Markup Languages",
