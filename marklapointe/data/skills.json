@@ -119,7 +119,7 @@
 
       ]
   },{
-    "grouping":"Containers & Cloud",
+    "grouping":"Containers and Cloud",
       "skills":[
           {"name":"BOSH","link":"https://bosh.io"},
           {"name":"Docker","link":"https://docker.com"},
@@ -155,13 +155,16 @@
       "ActivPlant Foundations SDK"
     ]
   },{
-    "grouping":"Markup Languages",
+    "grouping":"Markup Languages, Formatting, and Styling",
     "skills":[ 
       "Markdown",
       "RAML",
       "XML",
       "JSON",
-      "HTML"
+      "YML",
+      "HTML",
+      "LD JSON",
+      "CSS"
     ]
   }
 ]

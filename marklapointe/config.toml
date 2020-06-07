@@ -1,7 +1,7 @@
 baseURL = "https://mark-lapointe.com/"
 languageCode = "en-us"
 title = "Mark LaPointe"
-theme = "resume2"
+theme = "resume_custom"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
