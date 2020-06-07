@@ -13,3 +13,6 @@ build:
 
 publish:
 	@docker push repository.cloudbsd.cat/general/mark_lapointe_com:latest
+
+fullcycle: all
+	@git add . && git commit -m "Resume edit" && git push && ssh mlapointe@mark-lapointe.com 'cd /home/mlapointe/mark-lapointe.com && ./restart'
