@@ -11,15 +11,12 @@
               <div class="subheading mb-5">{{ .Site.Params.address }} ·
                 <a href="mailto:{{ substr .Site.Params.email 0 5}}-remove-{{ substr .Site.Params.email 5 }}">{{ substr .Site.Params.email 0 5}}<span style="display:none">-remove-</span>{{ substr .Site.Params.email 5 }}</a>
               </div>
-
             </div>
-
             {{ if .Site.Params.showQr }}
               {{ partial "contact-qr" . }}
             {{ end }}
         </div>
         <div>
-          
           <ul class="list-inline list-social-icons mb-0">
             {{ range .Site.Params.handles }}
                 <li class="list-inline-item">
@@ -32,6 +29,7 @@
                 </li>
             {{ end }}
           </ul>
+          
           {{ .Content }}
         </div>
       </div>
