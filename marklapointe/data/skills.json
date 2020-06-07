@@ -165,7 +165,9 @@
       "YML",
       "HTML",
       "LD JSON",
-      "CSS"
+      "CSS",
+      "Jade",
+      "Pug"
     ]
   }
 ]
