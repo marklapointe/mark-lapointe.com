@@ -63,7 +63,9 @@
         {"name":"ElasticSearch","icon":"database"},
         {"name":"Splunk","icon":"database"},
         {"name":"RedisDB","icon":"redis"},
-        {"name":"Apache Spark","icon":"database"}
+        {"name":"Apache Spark","icon":"database"}, 
+        {"name":"Cassandra"}
+
       ]
   },
   {
