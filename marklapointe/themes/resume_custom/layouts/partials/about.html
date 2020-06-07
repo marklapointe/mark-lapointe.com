@@ -19,7 +19,7 @@
             {{ end }}
         </div>
         <div>
-          {{ .Content }}
+          
           <ul class="list-inline list-social-icons mb-0">
             {{ range .Site.Params.handles }}
                 <li class="list-inline-item">
@@ -32,6 +32,7 @@
                 </li>
             {{ end }}
           </ul>
+          {{ .Content }}
         </div>
       </div>
     </section>
