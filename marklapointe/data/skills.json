@@ -139,8 +139,8 @@
           {"name":"Xen","link":"https://xenproject.org"},
           {"name":"XCP-NG","link":"https://xcp-ng.org/"},
           {"name":"Proxmox","link":"https://www.proxmox.com/"},
-          {"name":"Terraform", "link":"https://www.terraform.io/"},
-          {"name":"Chef", "link":"https://www.chef.io/"}
+          {"name":"Terraform", "ignore-link":"https://www.terraform.io/"},
+          {"name":"Chef", "ignore-link":"https://www.chef.io/"}
       ]
   },{
     "grouping":"Frameworks and Libraries",
