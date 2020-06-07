@@ -1,6 +1,3 @@
 [submodule "themes/resume"]
 	path = themes/resume
 	url = https://github.com/eddiewebb/hugo-resume.git
-[submodule "marklapointe/themes/resume"]
-	path = marklapointe/themes/resume
-	url = https://github.com/eddiewebb/hugo-resume.git
