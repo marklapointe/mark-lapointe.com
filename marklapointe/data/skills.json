@@ -21,7 +21,9 @@
         "Mikrotik",
         "pfSense",
         "Pulse Secure VPN",
-        "OpenVPN"
+        "OpenVPN", 
+        "Rabbit AMQP",
+        "Kafka"
       ]
   },{
       "grouping":"Programming Languages",
