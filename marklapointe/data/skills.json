@@ -3,7 +3,7 @@
       "grouping":"Architecture",
       "skills":[ 
         "IPv4",
-        "IPv6 (Look for this sites AAAA)",
+        "IPv6 (Look for this sites' AAAA)",
         "DNS",
         "Firewalls",
         "VPNs",
@@ -62,7 +62,6 @@
       "Make",
       "NPM",
       "Jenkins",
-      "Angular",
       "Eclipse",
       "Code",
       "GCC",
