@@ -101,7 +101,9 @@
         "JIRA",
         "Monday",
         "Agile",
-        "Waterfall"
+        "Waterfall",
+        "ERD",
+        "UML"
       ]
   },
   {
