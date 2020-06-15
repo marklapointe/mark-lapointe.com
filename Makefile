@@ -3,7 +3,10 @@ default: all
 gohugo:
 	@hugo new site marklapointe
 
-all: build publish
+all: clean build publish
+
+clean:
+	@rm -rf MarkLaPointe.zip
 
 build:
 	@sh -c 'cd marklapointe && hugo -D'
