@@ -23,9 +23,9 @@ showPublications = false
 showQr = true
 showSkills = true
 
-[[params.handles]]
-link = "https://www.linkedin.com/in/helix/"
-name = "LinkedIn"
+#[[params.handles]]
+#link = "https://www.linkedin.com/in/helix/"
+#name = "LinkedIn"
 
 [[params.handles]]
 link = "https://keybase.io/revhelix"
