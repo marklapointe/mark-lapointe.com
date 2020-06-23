@@ -120,7 +120,8 @@
         {"name":"Splunk","icon":"database"},
         {"name":"RedisDB","icon":"redis"},
         {"name":"Apache Spark","icon":"database"}, 
-        {"name":"Cassandra","icon":"database"}
+        {"name":"Cassandra","icon":"database"}, 
+        {"name":"Splunk","icon":"database"}
 
       ]
   },{
